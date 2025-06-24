@@ -1,14 +1,14 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Adi"
+secondary_name: "Saputra"
+navbar_name: "Adi Saputra"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/um.png  # Logo is optional
+  name: Student (Universitas Negeri Malang)
+- name: Research Intern (National Research and Innovation Agency)
 
 
-email: "your@email.com"
+email: "adi.saputra.220226@students.um.ac.id"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
@@ -22,12 +22,10 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    A sixth-semester undergraduate student majoring in Physics at Universitas Negeri Malang. He is currently undertaking an internship at the Center for Quantum Physics Research, National Research and Innovation Agency (BRIN), where he is actively involved in quantum computing and computational physics projects.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+  He is also an enthusiastic Linux user and regularly works with tools such as Qiskit and PennyLane to deepen his understanding of quantum algorithms and quantum machine learning.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
