@@ -5,19 +5,18 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>"I’m not lazy, I’m just in energy-saving mode 🤓"</h2>
     <hr />
     <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        I’m not <code>lazy</code>, I’m just in energy-saving mode, optimizing my focus for the tasks at hand. Life is like a video game, where every challenge is a new level to beat, and if I fail, I simply try again.
     </p>
     <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
+        After all, they say money can’t buy happiness, but it can buy ice cream, and that’s pretty much the same! As I work on each project, I embrace every colorful challenge with creativity and determination.
     </p>
     <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
+    Sometimes I find myself tackling the classic, tried-and-true tasks, and other times I dive into the exciting world of quantum machine learning.
     </p>
     <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
+    I’m solving problems the traditional way, and the next, I’m working with quantum algorithms to break new ground. Whether it's the familiar or the cutting-edge, I approach every challenge with enthusiasm and a touch of humor. Dive in and see what I’ve been up to!
     </p>
 </div>
