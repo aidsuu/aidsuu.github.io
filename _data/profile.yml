@@ -50,10 +50,10 @@ experience:
 position: Research Intern
 date: Jan. 2025 - jul. 2025
 
-#awards:
-#- name: Award Name 2
+skills:
+- name: Phyton (beginner)
 #  date: 2024
-#- name: Award Name 1 
+- name: Qiskit (beginner)
 #  date: 2021
-#- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: PennyLane (beginner)
 #  date: 2021
