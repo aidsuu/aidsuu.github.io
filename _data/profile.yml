@@ -47,11 +47,11 @@ education:
 experience:
 - name: BRIN Research Center for Quantum Physics
   logo: /assets/images/badges/BRIN-Q.png
-position: Research Intern
-date: Jan. 2025 - jul. 2025
+  position: Research Intern
+  date: Jan. 2025 - jul. 2025
 
 skills:
-- name: Phyton (beginner)
+- name: Python (beginner)
 #  date: 2024
 - name: Qiskit (beginner)
 #  date: 2021
