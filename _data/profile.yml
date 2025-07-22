@@ -22,10 +22,10 @@ twitter: Weismannn_  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A sixth-semester undergraduate student majoring in Physics at Universitas Negeri Malang. He is currently undertaking an internship at the Center for Quantum Physics Research, National Research and Innovation Agency (BRIN), where he is actively involved in quantum computing and computational physics projects.
+  A final-year undergraduate student majoring Physics at the State University of Malang ("Universitas Negeri Malang"), Indonesia. He is also affiliated with the Research Center for Quantum Physics Research, National Research and Innovation Agency (BRIN), where he has been actively involved in quantum computing and computational physics projects as a research intern.
   </p>
   <p>
-  He is also an enthusiastic Linux user and regularly works with tools such as Qiskit and PennyLane to deepen his understanding of quantum algorithms and quantum machine learning.
+  He is an enthusiastic Linux user and regularly works with quantum computing tools such as Qiskit and PennyLane to deepen his understanding of quantum algorithms and quantum machine learning.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -60,9 +60,9 @@ experience:
 
 
 skills:
-- name: Python (beginner)
+- name: Python (self-proclaimed intermediate level, having completed Robert Sutor's textbook on Python programming, "Dancing with Python")
 #  date: 2024
-- name: Qiskit (beginner)
+- name: Qiskit (intermediate, completed Qiskit Global Summer School 2025)
 #  date: 2021
-- name: PennyLane (beginner)
+- name: PennyLane (intermediate, completed > 50% PennyLane Codebooks)
 #  date: 2021
