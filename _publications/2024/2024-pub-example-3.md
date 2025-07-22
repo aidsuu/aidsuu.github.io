@@ -2,7 +2,7 @@
 title:          "Quantum Kernel Regression for Meteorological Forecasting"
 date:           2025-07-18 00:01:00 +0800
 selected:       true
-pub:            "Laporan Merdeka Belajar Kampus Merdeka"
+pub:            "Internship Project Report"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
