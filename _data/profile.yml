@@ -49,19 +49,18 @@ experience:
   logo: /assets/images/badges/BRIN-Q.png
   position: Research Intern
   date: Jan. 2025 - jul. 2025
-- name: Learning Assistant at Practicum Class of Electronics II
-  logo: /assets/images/badges/um.png
-  position: Assistant
-  date: Odd semester 2024/2025
 - name: Learning Assistant at Practicum Class of Physics for Biology 
   logo: /assets/images/badges/um.png
   position: Assistant
   date: Odd semester 2025/2026
+- name: Learning Assistant at Practicum Class of Electronics II
+  logo: /assets/images/badges/um.png
+  position: Assistant
+  date: Odd semester 2024/2025
 - name: Learning Assistant at Practicum Class of Fundamental Physics I
   logo: /assets/images/badges/um.png
   position: Assistant
   date: Odd semester 2023/2024
-
 
 skills:
 - name: Python (self-proclaimed intermediate level, having completed Robert Sutor's textbook on Python programming, "Dancing with Python")
