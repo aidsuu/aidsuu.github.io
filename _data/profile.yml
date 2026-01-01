@@ -28,7 +28,7 @@ short_bio: >-
   He is an enthusiastic Linux user and regularly works with quantum computing tools such as Qiskit and PennyLane to deepen his understanding of quantum algorithms and quantum machine learning.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/nformal4x3.JPG
 portrait_caption: >-
   This is me.
 
@@ -48,7 +48,7 @@ experience:
 - name: Physics Department (Cakra) High Performance Computer (HPC)
   logo: /assets/images/badges/um.png
   position: Administrator
-  date: Odd semester 2025/2026
+  date: Ongoing since Aug. 2025
 - name: BRIN Research Center for Quantum Physics
   logo: /assets/images/badges/BRIN-Q.png
   position: Research Intern
